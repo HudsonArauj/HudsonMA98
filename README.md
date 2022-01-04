@@ -12,7 +12,7 @@
   <img align="center" alt="Hudson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hudson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-<!--   <img align="right" alt="Hudson-pic" height="150" style="border-radius:50px;" src="#"> -->
+  <img align="right" alt="Hudson-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/-N7atfO_6amwILkUK2U2To6hb-aXZfTnoJ2AA-n1WGRmIHU9DW8pQnavDHhUQmoaVRBwgDg3yzCTWYKIF_-FaSN4f6zIxlqYkQN5S5w">
 </div>
 
   ##
