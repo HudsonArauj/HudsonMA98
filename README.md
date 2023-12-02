@@ -38,21 +38,15 @@
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HudsonArauj&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=yeblu" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonArauj&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudsonArauj&count_private=true&theme=yeblu"  height="175"/>
-</div>
- 
-<div> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HudsonArauj&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HudsonArauj&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HudsonArauj&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HudsonArauj&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HudsonArauj&theme=yeblu&utcOffset=8)
   <h3 align="center">🤝🏻 Contact me through</h3> 
 
   <a href="https://www.instagram.com/hudsonarauj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hudsonmonteiro2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hudson-m-ara%C3%BAjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-     
-
  
 </div>
